@@ -11,7 +11,7 @@ import psutil , socket
 call_counter = 0
 Notifyrepeat = 0
 apiNum= 0
-VersionN="v1.1"
+VersionN="v1.2"
 xd=0
 
 #create new config
